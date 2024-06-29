@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=25&duration=2228&pause=1000&color=D7D3A7&random=false&width=433&height=40&lines=Hey%2C+Mikhail+here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=25&duration=2228&pause=1000&color=D7D3A7&random=false&width=433&height=39&lines=Hey%2C+Mikhail+here!)](https://git.io/typing-svg)
 <!--
 **poludmik/poludmik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
